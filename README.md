@@ -1,63 +1,6 @@
 # Fractals-Software
 A software to explore fractal types built in Java
 
-Table of contents
-
-
-
-Objectives        2
-
-Three dimensional Object and Viewing        4
-
-Development Tool selection        Error! Bookmark not defined.
-
-Project selection        Error! Bookmark not defined.
-
-Methodology        2
-
-Facet Approximation Of Sphere Generation        Error! Bookmark not defined.
-
-Motion of the Sphere        Error! Bookmark not defined.
-
-Hidden surface Elimination        4
-
-Geometric Transformations Used        3
-
-a. Translation(P&#39;=T.P)        3
-
-b. Rotation w.r.t. co-ordinate axes        3
-
-c. Projection (perspective)        **Error! Bookmark not defined.**
-
-Illumination        5
-
-Intensity Attenuation        Error! Bookmark not defined.
-
-Surface Rendering        5
-
-Fig: screenshot of output at an instance        Error! Bookmark not defined.
-
-Limitations        Error! Bookmark not defined.
-
-Conclusion        7
-
-Future Enhancement        Error! Bookmark not defined.
-
-Difficulties        6
-
-References        7
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Objectives
 
